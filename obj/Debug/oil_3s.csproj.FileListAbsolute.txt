@@ -1,0 +1,16 @@
+D:\FBtest\oil_3s\oil_3s\bin\Debug\oil_3s.exe.config
+D:\FBtest\oil_3s\oil_3s\bin\Debug\oil_3s.exe
+D:\FBtest\oil_3s\oil_3s\bin\Debug\oil_3s.pdb
+D:\FBtest\oil_3s\oil_3s\bin\Debug\EntityFramework.dll
+D:\FBtest\oil_3s\oil_3s\bin\Debug\EntityFramework.Firebird.dll
+D:\FBtest\oil_3s\oil_3s\bin\Debug\EntityFramework.SqlServer.dll
+D:\FBtest\oil_3s\oil_3s\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\FBtest\oil_3s\oil_3s\bin\Debug\EntityFramework.xml
+D:\FBtest\oil_3s\oil_3s\bin\Debug\EntityFramework.Firebird.pdb
+D:\FBtest\oil_3s\oil_3s\bin\Debug\EntityFramework.SqlServer.xml
+D:\FBtest\oil_3s\oil_3s\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\FBtest\oil_3s\oil_3s\obj\Debug\oil_3s.exe
+D:\FBtest\oil_3s\oil_3s\obj\Debug\oil_3s.pdb
+D:\FBtest\oil_3s\oil_3s\bin\Debug\MySql.Data.dll
+D:\FBtest\oil_3s\oil_3s\bin\Debug\MySql.Data.xml
+D:\FBtest\oil_3s\oil_3s\obj\Debug\oil_3s.csprojResolveAssemblyReference.cache
